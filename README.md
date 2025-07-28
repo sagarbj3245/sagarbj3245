@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Expense Tracker and Cashfree integration**  
 - 🌱 I’m currently learning **Backend Optimization & DevOps**  
 - 💬 Ask me about **JavaScript, Node.js, Express, Java, Python, REST APIs, Full Stack Development**  
-- 📫 How to reach me: **sagarbj824@gmail.com**  
+- 📫 How to reach me: **sagarbj001@gmail.com**  
 - 📱 WhatsApp: **+91 8277334654**  
 - ⚡ Fun fact: I love building scalable apps from scratch  
 
@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="left">📚 Resume Tech Summary:</h3>
+<h3 align="left">📚 Tech Summary:</h3>
 
 - **Languages & Frameworks**: JavaScript, Node.js, Express.js, Java, Python, Django, HTML, CSS, Bootstrap  
 - **Databases**: MySQL, Sequelize ORM, RDS  
@@ -53,9 +53,10 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarbj824&show_icons=true&theme=radical" alt="Sagar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbj824&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarbj3245&show_icons=true&theme=radical" alt="Sagar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbj3245&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -64,7 +65,7 @@
   <a href="https://www.linkedin.com/in/sagar-b-j-2855b3319/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="mailto:sagarbj824@gmail.com" target="blank">
+  <a href="mailto:sagarbj001@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
   </a>
 </p>
